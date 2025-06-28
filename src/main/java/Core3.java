@@ -43,5 +43,13 @@ public class Core3 {
 //            }
 //        }
 
+        //Exception Handling
+//        int[] marks = {23,45,11};
+//        try {
+//            System.out.println(marks[5]);
+//        }catch(Exception exception){
+//            //The modifying code is written here.
+//        }
+//        System.out.println("This is Salaar");
     }
 }
