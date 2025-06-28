@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+import java.util.Scanner;
 public class Core2 {
     public static void main(String[] args){
 //        int[] marks = new int[4];
@@ -21,5 +21,12 @@ public class Core2 {
         //2D Array
 //        int[][] Movie_Coll ={{200, 100, 1500, 400},{250,850,730,400}};
 //        System.out.println(Movie_Coll[0][1] +" "+ Movie_Coll[1][3]);
+
+        //Scanner refer
+//        Scanner peru = new Scanner(System.in);
+//        System.out.println("Enter your name ");
+//        String name = peru.nextLine();
+//        System.out.println("Hello "+name+"!");
+
     }
 }
