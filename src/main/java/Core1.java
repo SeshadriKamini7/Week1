@@ -25,13 +25,14 @@ public class Core1 {
 //        }
 
         // Compared Content even with different memory
-        String n3= new String("Audi Q5");
-        String n4=new String("Audi Q5");
-        if(n3.equals(n4)){
-            System.out.println("True");
-        }
-        else{
-            System.out.println("False");
-        }
+//        String n3= new String("Audi Q5");
+//        String n4=new String("Audi Q5");
+//        if(n3.equals(n4)){
+//            System.out.println("True");
+//        }
+//        else{
+//            System.out.println("False");
+//        }
+
     }
 }
