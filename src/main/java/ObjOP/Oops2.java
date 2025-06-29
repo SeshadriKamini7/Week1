@@ -19,6 +19,6 @@ public class Oops2 {
 //        s1.gmail="sk@gmail.com";
 //                          s1.setPassword("abcd");
 //        System.out.println(s1.getPassword());
-        //
+
     }
 }
