@@ -1,4 +1,5 @@
 package ObjOP;
+
 //Polymorphism
 //class Student{
 //    int age;
@@ -20,8 +21,15 @@ package ObjOP;
 
 //Inheritance
 //class shape{
+//    int a;
+//    int b;
 //    void area(){
 //        System.out.println("Displaying the area");
+//    }
+//    void ar(int a, int b){
+//        this.a =a;
+//        this.b=b;
+//        System.out.println(a+b);
 //    }
 //}
 //class triangle extends shape{
@@ -39,6 +47,7 @@ package ObjOP;
 //    void area(int r){
 //        System.out.println(3.14*r*r);
 //    }
+//
 //}
 public class Oops1 {
     public static void main(String[] args){
@@ -53,6 +62,11 @@ public class Oops1 {
 //        circle c1 = new circle();
 //        c1.r=7;
 //        c1.area(c1.r);
+                //casting
+//        shape ball = new circle();
+//        ((circle) ball).r=3;
+//        ((circle) ball).area(((circle) ball).r);
+
     }
 }
 
