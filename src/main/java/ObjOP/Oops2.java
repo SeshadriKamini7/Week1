@@ -37,6 +37,20 @@ import java.util.Random;
 //        System.out.println("This Animal walks on 2 legs");
 //    }
 //}
+
+//Interfaces
+//interface Animal{
+//    void walk();
+//    int eyes =2;
+//}
+//interface Herbivore{
+//
+//}
+//class Horse implements Animal, Herbivore{
+//    public void walk(){
+//        System.out.println("walks on 4 legs");
+//    }
+//        }
 public class Oops2 {
     public static void main(String[] args){
         //Encapsulation
@@ -49,6 +63,10 @@ public class Oops2 {
         //Abstraction
 //        horse Horse =new horse();
 //        hen Hen = new hen();
+
+        //Interfaces
+//        Horse horse = new Horse();
+//        horse.walk();
 
     }
 }
