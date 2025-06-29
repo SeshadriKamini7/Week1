@@ -14,6 +14,20 @@ package ObjOP;
 //    }
 
 //}
+
+//Constructer creation
+//class Student {
+//    String name;
+//    int age;
+//    Student(String name, int age){
+//        this.name=name;
+//        this.age= age;
+//    }
+//    void printinfo(){
+//        System.out.println(name);
+//        System.out.println(age);
+//    }
+//}
 public class Oops {
 public static void main(String[] args){
 //    Pen pen1 = new Pen();
@@ -25,6 +39,10 @@ public static void main(String[] args){
 //    pen2.type ="Ballpoint";
 //    pen1.write();
 //    pen2.Disptype();
+
+    //Constructer
+//    Student Seshu = new Student("Seshadri", 23 );
+//    Seshu.printinfo();
 
 }
 }
