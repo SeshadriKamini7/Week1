@@ -13,7 +13,7 @@ public class Core1 {
 //        System.out.println("Concatenation  "+name1+name2);
 //        System.out.println("Replace character in a string  "+name1.replace('i','y'));
 //        System.out.println("Substring  "+name2.substring(2,6));
-//
+
          // Compared Strings with different memory location
 //        String n1= new String("Tata punch");
 //        String n2=new String("Tata punch");
